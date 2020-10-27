@@ -6,3 +6,6 @@ const main = function () {
 };
 
 $(main);
+
+import store from './store.js';
+import item from './item.js';
